@@ -1156,6 +1156,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [srijs/rust-copperline](https://github.com/srijs/rust-copperline) [[copperline](https://crates.io/crates/copperline)] - command line editing library
 * Other
   * [mgrachev/update-informer](https://github.com/mgrachev/update-informer) [[update-informer](https://crates.io/crates/update-informer)] - Update informer for CLI applications. It checks for a new version on Crates.io and GitHub [![build badge](https://github.com/mgrachev/update-informer/workflows/CI/badge.svg)](https://github.com/mgrachev/update-informer/actions)
+  * [sharkdp/fd](https://github.com/sharkdp/fd) [[fd](https://crates.io/crates/fd)] - A simple, fast and user-friendly alternative to 'find'
 * Pipeline
   * [hniksic/rust-subprocess](https://github.com/hniksic/rust-subprocess) [[subprocess](https://crates.io/crates/subprocess)] - facilities for interaction with external pipelines
   * [imp/pager-rs](https://gitlab.com/imp/pager-rs) [[pager](https://crates.io/crates/pager)] - pipe your output through an external pager
