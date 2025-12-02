@@ -1155,6 +1155,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [murarth/linefeed](https://github.com/murarth/linefeed) [[linefeed](https://crates.io/crates/linefeed)] - Configurable, extensible, interactive line reader
   * [srijs/rust-copperline](https://github.com/srijs/rust-copperline) [[copperline](https://crates.io/crates/copperline)] - command line editing library
 * Other
+  * [sharkdp/fd](https://github.com/sharkdp/fd) [[fd](https://crates.io/crates/fd)] - A simple, fast and user-friendly alternative to 'find'
   * [mgrachev/update-informer](https://github.com/mgrachev/update-informer) [[update-informer](https://crates.io/crates/update-informer)] - Update informer for CLI applications. It checks for a new version on Crates.io and GitHub [![build badge](https://github.com/mgrachev/update-informer/workflows/CI/badge.svg)](https://github.com/mgrachev/update-informer/actions)
   * [sharkdp/fd](https://github.com/sharkdp/fd) [[fd](https://crates.io/crates/fd)] - A simple, fast and user-friendly alternative to 'find'
 * Pipeline
